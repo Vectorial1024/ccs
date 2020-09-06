@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+	<replace sel="/wares/ware[@id='foodrations']/production[@method='devries']/@amount">-40</replace>
+	<replace sel="/wares/ware[@id='foodrations']/production[@method='devries']/primary/ware[@ware='foodrations']/@amount">10</replace>
+</diff>
